@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodFacts</string>
+    <string name="title_item_detail">FoodFacts products</string>
+    <string name="search">Search</string>
+    <string name="invalid_ean13">This is not a valid EAN-13 barcode</string>
+    <string name="request_error">An error occured during request.</string>
+    <string name="request_not_found">Object not found.</string>
+    <string name="code">Code</string>
+    <string name="name">Name</string>
+    <string name="nutriments">Nutriments</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="noproducts">No products found for now. Please search for a product.</string>
+    <string name="noproductselected">No products selected.</string>
+</resources>
